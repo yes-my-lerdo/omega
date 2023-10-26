@@ -4,7 +4,8 @@ Los naturales siempre me parecieron una manera extraña de completar el todo. Lo
 Viendo el vuelo de caza del águila imperial ibérica sobre un conejo, con precisión le da justo en la cabeza abatiendo lo de un golpe seco. Calcular esa curva es un proceso imposible para el mejor de los computadores. El águila sigue un continuo de entropía en el que se marca tres aros por los que pasar hasta llegar al conejo, si cambia lo rectifica inmediatamente. 
  
 Entonces la idea es montar un natural con esas propiedades topológico algebraicas que siga la axiomática de Peano a base de las leyes naturales básicas conocidas. La forma que tendrá sera de una linea de entropía continua o linea de acumulación de información. 
- 
+El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 100% cierto y volvemos a construir el universo. 
+
 ## Axiomas
 - Leyes de Newton
 - Relatividad especial de Einstein
