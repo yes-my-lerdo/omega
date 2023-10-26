@@ -20,14 +20,18 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
  
 ## Universo
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
+- La entropía de la termodinámica como el continuo acumulado de cambios producidos por la acción-reacción de la masa, la energía o el tiempo.
 
-- Definimos la entropía como el continuo acumulado de cambios producidos por la acción-reacción de la masa, la energía o el tiempo.
-- Defino el crecimiento basándome en la segunda ley de la termodinámica.
-- Defino una operación colapso-divergencia sobre el continuo, tal que colapso retrocede hasta la ultima divergencia y divergencia separa el camino de entropía en dos, i.e. crea un nudo como las ramas de un árbol.
-- Defino el fotón como se describe en el Principio de incertidumbre de Heisemberg como el valor menos infinito en la linea de entropía. 
-- Defino la pirámide de base cuadrada perfecta como se describe en los corolarios de los Elementos de Euclides como la forma gravitatoria perfecta, i.e. nunca colapsa por su propia masa encima de un plano, como  el valor infinito.
-- Defino la operación divergencia de fotón a pirámide de base cuadrada perfecta de entropía.
-- Defino la operación colapso de pirámide de base cuadrada de entropía a un numero superior de fotones que al divergir, por la segunda ley de la termodinámica.
+  
+Defino el crecimiento basándome en la segunda ley de la termodinámica.
+- Una operación colapso-divergencia sobre el continuo, tal que colapso retrocede hasta la ultima divergencia y divergencia separa el camino de entropía en dos, i.e. crea un nudo como las ramas de un árbol.
+
+
+Defino los elementos principales.
+- El fotón como se describe en el Principio de incertidumbre de Heisemberg como el valor menos infinito en la linea de entropía. 
+- La pirámide de base cuadrada perfecta como se describe en los corolarios de los Elementos de Euclides como la forma gravitatoria perfecta, i.e. nunca colapsa por su propia masa encima de un plano, como  el valor infinito.
+- La operación divergencia de fotón a pirámide de base cuadrada perfecta de entropía.
+- La operación colapso de pirámide de base cuadrada de entropía a un numero superior de fotones que al divergir, por la segunda ley de la termodinámica.
  
 ### Compruebo unicidad y existencia de una recta topológica que cruza fotón y pirámide de base cuadrada perfecta de entropía.
  
