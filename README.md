@@ -51,8 +51,8 @@ Por tanto la forma perfecta de entropía en Sigma es un cubo que en el paso infi
 También llena la 4-esfera en el cuerpo imaginario, por tanto 3-esfera esta totalmente conectada con n-esfera, por tanto es invariante. 
  
 Por tanto, existe una unica funcion con forma fractal sobre la n-esfera y dependiente de una aplicacion de colapso-divergencia.
-Ahora hay que buscarla y completarla. 
 
+La aplicacion de colapso-divergencia es la principal herramienta que completa nos permitira decidir y buscar cualquier cosa dentro de Oz.
 
 Firmado el avatar del aire, he acabado los Elementos de Euclides. yes_my_lerdo
  
