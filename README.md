@@ -19,8 +19,8 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Modelo del átomo, subatómico y molecular
  
 ## Universo
-- Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein
-- Espacio relativista, espacio-tiempo.
+Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
+
 - Definimos la entropía como el continuo acumulado de cambios producidos por la acción-reacción de la masa, la energía o el tiempo.
 - Defino el crecimiento basándome en la segunda ley de la termodinámica.
 - Defino una operación colapso-divergencia sobre el continuo, tal que colapso retrocede hasta la ultima divergencia y divergencia separa el camino de entropía en dos, i.e. crea un nudo como las ramas de un árbol.
