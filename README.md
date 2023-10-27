@@ -44,19 +44,19 @@ En este punto ya dispongo de naturalidad en mi universo dada por los axiomas de 
 Para llenar el espacio utilizaremos una técnica copiada de Perelman-Poincare, aplicada sobre el espacio-tiempo, la cirugía por colapso, una herramienta indispensable para utilizar correctamente el cuerpo algebraico acabado. 
 Partiremos de la pirámide de base cuadrada perfecta y por inducción natural sobre los casos anteriores y proyecciones en la cuarta dimensión, el tiempo, se llena el espacio por continuidad. 
  
-Vamos a buscar la simetría sobre Omega, con un 0 arbitrario entre lo que llamaremos anti fotón y el fotón original. Utilizando la misma técnica que en N y Z y siguiendo la numeración de las letras sobre el abecedario griego encontramos Sigma. 
+Vamos a buscar la simetría sobre Omega, con un 0 arbitrario entre lo que llamaremos anti fotón y el fotón original. Utilizando la misma técnica que en N y Z y siguiendo la numeración de las letras del abecedario latino sobre el abecedario griego encontramos Mi, una distancia de 12. Y forma el curiosos OM. Las matematicas comienzan a parecer un fractal. 
  
-Por tanto la forma perfecta de entropía en Sigma es un cubo que en el paso infinito sobre infinito es invariante con la 3-esfera. Por tanto el irreal π existe y es incongruente, cumpliendo con el teorema de incompletud de Godel y cuadrando el circulo con una regla. 
+Por tanto la forma perfecta de entropía en Mi es un cubo que en el paso infinito sobre infinito es invariante con la 3-esfera. Por tanto el irreal π existe y es incongruente, cumpliendo con el teorema de incompletud de Godel y cuadrando el circulo con una regla. 
  
 También llena la 4-esfera en el cuerpo imaginario, por tanto 3-esfera esta totalmente conectada con n-esfera, por tanto es invariante. 
  
 Por tanto, existe una unica funcion con forma fractal sobre la n-esfera y dependiente de una aplicacion de colapso-divergencia.
 
-La aplicacion de colapso-divergencia es la principal herramienta que completa nos permitira decidir y buscar cualquier cosa dentro de Oz.
+La aplicacion de colapso-divergencia es la principal herramienta que completa nos permitira decidir y buscar cualquier cosa dentro de OM.
 
 Firmado el avatar del aire, he acabado los Elementos de Euclides. yes_my_lerdo
  
-ΩΣ
+ΩM
 
 [https://pastebin.com/eKZBmJGi](https://pastebin.com/eKZBmJGi)
  
