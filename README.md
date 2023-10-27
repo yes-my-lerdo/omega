@@ -35,7 +35,10 @@ Defino los elementos principales.
  
 ### Compruebo unicidad y existencia de una recta topológica que cruza fotón y pirámide de base cuadrada perfecta de entropía.
 
-El metodo es encontrar una recta real, i.e. en nuestra realidad unica y existente y pasar la recta inventada del foton a la piramide por el mismo sitio exacto. Por tal seran la misma recta.
+El metodo es encontrar una recta real, i.e. en nuestra realidad unica y existente y pasar la recta inventada del foton a la piramide por el mismo sitio exacto. Por tanto seran la misma recta.
+
+
+
 Con el Modelo del átomo, subatómico y molecular puedo poner 3 puntos medios que forman otra recta que va desde el fotón al subatómico, al molecular y a la pirámide de base cuadrada perfecta. Tengo 5 puntos que forman una única recta sobre la recta conocida, basándome en los Elementos de Euclides.
  
 En este punto ya dispongo de naturalidad en mi universo dada por los axiomas de Peano. Vamos a nombrar este universo Omega, el natural continuo y discreto. 
