@@ -17,6 +17,7 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Teorema Perelman-Poincare
 - Teorema de incompletud de Godel
 - Modelo del átomo, subatómico y molecular
+- Descartes
  
 ## Universo
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
