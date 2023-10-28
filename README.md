@@ -30,7 +30,7 @@ Defino el crecimiento basándome en la segunda ley de la termodinámica.
 Defino los elementos principales.
 - El fotón como se describe en el Principio de incertidumbre de Heisemberg como el valor menos infinito en la linea de entropía. 
 - La pirámide de base cuadrada perfecta como se describe en los corolarios de los Elementos de Euclides como la forma gravitatoria perfecta, i.e. nunca colapsa por su propia masa encima de un plano, como  el valor infinito.
-- La operación divergencia de fotón a pirámide de base cuadrada perfecta de entropía, entedemos que esta divergincia se produce despues de acumular moviemiento. El resultado es la energia de los fotones y una parte de la energia de cinetica para la divergencia.
+- La operación divergencia de fotón a pirámide de base cuadrada perfecta de entropía, entedemos que esta divergincia se produce despues de acumular moviemiento. El resultado es la energia de los fotones y una parte de la energia cinetica para la divergencia.
 - La operación colapso de pirámide de base cuadrada de entropía a un numero superior de fotones que al divergir, por la segunda ley de la termodinámica. Libera energia de la divergencia anterior. No la genera. 
  
 ### Compruebo unicidad y existencia de una recta topológica que cruza fotón y pirámide de base cuadrada perfecta de entropía.
