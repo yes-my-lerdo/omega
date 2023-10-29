@@ -21,9 +21,8 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 
   
 ### Epistemología de especial interés
-- Discurso del método - René Descartes
-- Contra el método - Paul Feyerabend
-- Tesis de la inconmensurabilidad - Paul Feyerabend
+- René Descartes
+- Paul Feyerabend
 
 ## Hipótesis
 Descartes demuestra la existencia de nuestra linea real a través del propio pensamiento humano. 
