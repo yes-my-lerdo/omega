@@ -45,7 +45,7 @@ Como la recta del pensamiento humano es única y ha formado los postulados axiom
 
 Reconozco la unicidad y existencia de una linea de entropía en nuestra propia realidad con esta aplicación que marca el pensamiento humano.
 
-Bajo la hipótesis de que existe una función en forma fractal que depende de un aplicación de divergencias que completa el espacio relativista y esta totalmente conectada en la n-esfera, construyo un cuerpo algebraico a partir de un nuevo Natural basado en la entropía de la termodinámica y completare la n-esfera con sus imaginarios.
+Bajo la hipótesis de que existe una única función continua en forma fractal que depende de un aplicación de divergencias que completa el espacio relativista y esta totalmente conectada en la n-esfera, construyo un cuerpo algebraico a partir de un nuevo Natural basado en la entropía de la termodinámica y completare la n-esfera con sus imaginarios.
 
 ## Demostración
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
