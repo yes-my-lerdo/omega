@@ -18,7 +18,17 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Teorema de incompletud de Godel
 - Modelo del átomo, subatómico y molecular
 - Descartes
- 
+
+## Existencia y unicidad de recta topológica algebraica en la linea de entrópia de nuestra realidad
+Descartes demuestra la existencia de nuestra linea real a través del propio pensamiento humano. 
+Reconozco algo desconocido y con poderes sobrenaturales en la incertidumbre del 0, i.e. lo anterior al fotón y posterior al anti fotón. 
+
+
+No niego la existencia de anti entropía en el natural solo se construye de esta manera para encontrar la simetría. Las operaciones son simétricas con anti entropía. 
+
+
+Como la recta del pensamiento humano es única y ha formado los postulados axiomáticos reconozco la unicidad y existencia de una linea de entropía en nuestra propia realidad con esta aplicación.
+
 ## Universo
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
 - La entropía de la termodinámica como el continuo acumulado de cambios producidos por la acción-reacción de la masa, la energía o el tiempo.
