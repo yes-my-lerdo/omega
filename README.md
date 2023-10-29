@@ -48,7 +48,8 @@ Reconozco la unicidad y existencia de una linea de entropía en nuestra propia r
 Bajo la hipótesis de que existe una única función continua en forma fractal que depende de un aplicación de divergencias que completa el espacio relativista y esta totalmente conectada en la n-esfera, construyo un cuerpo algebraico a partir de un nuevo Natural basado en la entropía de la termodinámica y completare la n-esfera con sus imaginarios.
 
 
-Entiendo el universo de la linea de entropía como un espacio topológico algebraico en la 4-esfera, dadas las propiedades con las que describo el universo.
+
+Dadas las propiedades con las que describo el universo de la linea de entropía voy a tratarlo como un espacio topológico algebraico en la 4-esfera
 
 ## Demostración
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
