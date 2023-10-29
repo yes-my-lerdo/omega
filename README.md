@@ -17,7 +17,12 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Teorema Perelman-Poincare
 - Teorema de incompletud de Godel
 - Modelo del átomo, subatómico y molecular
-- Descartes
+
+  
+### Epistemología de especial interés
+- Discurso del método - René Descartes
+- Contra el método - Paul Feyerabend
+- Tesis de la inconmensurabilidad - Paul Feyerabend
 
 ## Existencia y unicidad de recta topológica algebraica en la linea de entrópia de nuestra realidad
 Descartes demuestra la existencia de nuestra linea real a través del propio pensamiento humano. 
