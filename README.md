@@ -27,7 +27,9 @@ Reconozco algo desconocido y con poderes sobrenaturales en la incertidumbre del 
 No niego la existencia de anti entropía en el natural solo se construye de esta manera para encontrar la simetría. Las operaciones son simétricas con anti entropía. 
 
 
-Como la recta del pensamiento humano es única y ha formado los postulados axiomáticos reconozco la unicidad y existencia de una linea de entropía en nuestra propia realidad con esta aplicación.
+Como la recta del pensamiento humano es única y ha formado los postulados axiomáticos. 
+
+Reconozco la unicidad y existencia de una linea de entropía en nuestra propia realidad con esta aplicación que marca el pensamiento humano.
 
 ## Universo
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
