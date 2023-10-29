@@ -17,6 +17,7 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Teorema Perelman-Poincare
 - Teorema de incompletud de Godel
 - Equilibrio de Nash
+- Álgebra abstracta
 - Modelo del átomo, molecular y astrofísico
 
   
