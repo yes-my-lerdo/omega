@@ -16,6 +16,7 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Axiomas de Peano
 - Teorema Perelman-Poincare
 - Teorema de incompletud de Godel
+- Equilibrio de Nash
 - Modelo del átomo, subatómico y molecular
 
   
@@ -24,19 +25,29 @@ El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 1
 - Contra el método - Paul Feyerabend
 - Tesis de la inconmensurabilidad - Paul Feyerabend
 
-## Existencia y unicidad de recta topológica algebraica en la linea de entrópia de nuestra realidad
+## Hipótesis
 Descartes demuestra la existencia de nuestra linea real a través del propio pensamiento humano. 
 Reconozco algo desconocido y con poderes sobrenaturales en la incertidumbre del 0, i.e. lo anterior al fotón y posterior al anti fotón. 
 
 
 No niego la existencia de anti entropía en el natural solo se construye de esta manera para encontrar la simetría. Las operaciones son simétricas con anti entropía. 
+Las operaciones simétricas siguen el equilibrio de Nash con el interés en la gravedad y en la divergencia. La estrategia para el equilibrio se consigue en un numero no determinado de pasos pero es seguro que se mantendrá en equilibrio.
+El equilibrio geométrico perfecto para evitar el colapso bajos las leyes de Newton es la doble pirámide de base cuadrada perfecta o cubo. 
+
+Par tanto también veremos como el equilibrio depende de la cantidad de entropía ya que la información que describe el deseo de más entropía no es de origen conocido. Seria el equivalente a ganar en la teoría de juegos. 
+Los puntos de equilibrio son las diferentes proyecciones sobre el tiempo que más sencillo son de describir. 
+Por este motivo me he basado en los modelos conocidos para completar el cuerpo.
+
+Las operaciones divergencia y colapso son alias, en el colapso se marca que el camino retrocede pero también es un divergencia. 
 
 
 Como la recta del pensamiento humano es única y ha formado los postulados axiomáticos. 
 
 Reconozco la unicidad y existencia de una linea de entropía en nuestra propia realidad con esta aplicación que marca el pensamiento humano.
 
-## Universo
+Bajo la hipótesis de que existe una función en forma fractal que depende de un aplicación de divergencias que completa el espacio relativista y esta totalmente conectada en la n-esfera, construyo un cuerpo algebraico a partir de un nuevo Natural basado en la entropía de la termodinámica y completare la n-esfera con sus imaginarios.
+
+## Demostración
 Defino dos parámetros para mi universo basándome en las leyes de Newton y Relatividad especial de Einstein en un espacio relativista, espacio-tiempo.
 - La entropía de la termodinámica como el continuo acumulado de cambios producidos por la acción-reacción de la masa, la energía o el tiempo.
 
