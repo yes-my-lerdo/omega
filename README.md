@@ -60,18 +60,20 @@ Defino los elementos principales.
 - El fotón como se describe en el Principio de incertidumbre de Heisemberg como el valor menos infinito en la linea de entropía. 
 - La pirámide de base cuadrada perfecta como se describe en los corolarios de los Elementos de Euclides como la forma gravitatoria perfecta, i.e. nunca colapsa por su propia masa encima de un plano, como  el valor infinito.
 - La operación divergencia de fotón a pirámide de base cuadrada perfecta de entropía, entedemos que esta divergincia se produce despues de acumular moviemiento. El resultado es la energia de los fotones y una parte de la energia cinetica para la divergencia.
-- La operación colapso de pirámide de base cuadrada de entropía a un numero superior de fotones que al divergir, por la segunda ley de la termodinámica. Libera energia de la divergencia anterior. No la genera. 
- 
+- La operación alias colapso de pirámide de base cuadrada de entropía a un numero superior de fotones que al divergir, por la segunda ley de la termodinámica. Libera energia de la divergencia anterior. No la genera. 
+
+### Axiomas de Peano
+Por el principio de equilibrio existe una serie de pasos infinitos desde fotón - anti fotón hasta la doble pirámide de base cuadra perfecta. La mezcla propia del equilibrio definimos un estado inicial propicio para la creación de masa, energía cinética y equilibrio de fotones y anti fotones perfecto, como el famoso símbolo ying yang, puedo por simetría utilizar la mitad del fotón a la pirámide entendiendo que el proceso es igual pero simétrico en la parte anti entrópica.
+
+El proceso en la parte entrópica es es una siguiente de pasos donde el fotón es el primer natural, 1, y el infinito inalcanzable se encuentra en el infinito entrópico. Con la operación divergencia en la linea de entropía.
+Tenemos n natural, tememos que n divergencia de fotón sigue siendo natural. Es un proceso que podemos completar hasta la pirámide de base cuadrada perfecta.En este conjunto de cambios en la linea entrópica tengo inducción natural, por tanto el nuevo conjunto Omega, definido como la linea de entropía que va desde el fotón hasta la pirámide de base cuadra perfecta geométrica, es un natural según los axiomas de Peano.
+
 ### Compruebo unicidad y existencia de una recta topológica que cruza fotón y pirámide de base cuadrada perfecta de entropía.
 
 El metodo es encontrar una recta real, i.e. en nuestra realidad unica y existente y pasar la recta inventada del foton a la piramide por el mismo sitio exacto. Por tanto seran la misma recta.
 
-
-
-Con el Modelo del átomo, subatómico y molecular puedo poner 3 puntos medios que forman otra recta que va desde el fotón al subatómico, al molecular y a la pirámide de base cuadrada perfecta. Tengo 5 puntos que forman una única recta sobre la recta conocida, basándome en los Elementos de Euclides.
- 
-En este punto ya dispongo de naturalidad en mi universo dada por los axiomas de Peano. Vamos a nombrar este universo Omega, el natural continuo y discreto. 
- 
+Con el Modelo del átomo, molecular y astrofísico tengo 3 puntos fijos segun, la Teoria del Caos, que forman otra recta seguiendo sus atractores que va desde el fotón al atomo, al molecular, al astrofísico y a la doble pirámide de base cuadrada perfecta. Tengo 5 puntos que forman una única recta sobre la recta conocida, segun los Elementos de Euclides.
+  
 ### Comprobamos que llena todo un cuerpo algebraico para buscar el isomorfismo. 
  
 Para llenar el espacio utilizaremos una técnica copiada de Perelman-Poincare, aplicada sobre el espacio-tiempo, la cirugía por colapso, una herramienta indispensable para utilizar correctamente el cuerpo algebraico acabado. 
