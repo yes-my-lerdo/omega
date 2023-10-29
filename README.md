@@ -6,6 +6,7 @@ Viendo el vuelo de caza del águila imperial ibérica sobre un conejo, con preci
 Entonces la idea es montar un natural con esas propiedades topológico algebraicas que siga la axiomática de Peano a base de las leyes naturales básicas conocidas. La forma que tendrá sera de una linea de entropía continua o linea de acumulación de información. 
 El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 100% cierto y volvemos a construir el universo. 
 
+I.e. toda la matemática es correcta, dentro de sus limitaciones, como cualquier postulado demostrado con el método científico moderno.
 ## Axiomas
 - Leyes de Newton
 - Relatividad especial de Einstein
