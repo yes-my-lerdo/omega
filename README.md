@@ -1,5 +1,6 @@
 ## Introducción
 
+Completa la obra de Epicuro de Samos.
 Los naturales siempre me parecieron una manera extraña de completar el todo. Lorenz para definir el concepto de caos utiliza una olla y un fuego que no tienen nada que ver con la propiedad discreta de los naturales. Viendo el vuelo de caza del águila imperial ibérica sobre un conejo, con precisión le da justo en la cabeza abatiendolo de un golpe seco. Calcular esa curva es un proceso imposible para el mejor de los computadores. El águila sigue un continuo de entropía en el que se marca tres aros por los que pasar hasta llegar al conejo, si cambia lo rectifica inmediatamente.
 
 Entonces la idea es montar un natural con esas propiedades topológicas algebraicas que siga la axiomática de Peano a base de las leyes naturales básicas conocidas. La forma que tendrá será de una línea de entropía continua o línea de acumulación de información. El método utilizado es anarquismo epistemológico, negamos todo lo que no sea 100% cierto y volvemos a construir el universo.
